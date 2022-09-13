@@ -1,6 +1,6 @@
 Hello, everything that will be post here is a school project that is made in Java.
 
-As I have a little knowledge in Java i think keeping the project in here would make things a little bit easier for me.
+As I have a little knowledge in Java i think keeping the project in here would make things a much easier.
 
 In case you would like to assist me in my project I'm available either on discord(JuggerTac#2022) or twitter (@JuggerTac)
 
